@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "products": [
+    {
+      "id": "AEIN-TRELLO-001",
+      "title": "دوره جامع آموزش ترلو | مدیریت حرفه‌ای کارها",
+      "price": 998000,
+      "old_price": 1998000,
+      "category": "دوره آموزشی",
+      "image": "https://aeinexam.ir/wp-content/uploads/2024/06/trello-banner-new.jpg",
+      "color": "ندارد",
+      "guarantee": "دسترسی دائمی و پشتیبانی کامل",
+      "is_available": true,
+      "url": "https://aeinexam.ir/trello"
+    },
+    {
+      "id": "AEIN-SCRUM-002",
+      "title": "دوره اسکرام مستر حرفه‌ای | با مدرک بین‌المللی",
+      "price": 998000,
+      "old_price": 1998000,
+      "category": "دوره آموزشی",
+      "image": "https://aeinexam.ir/wp-content/uploads/2024/06/scrum-banner-new.jpg",
+      "color": "ندارد",
+      "guarantee": "دسترسی دائمی و مدرک معتبر",
+      "is_available": true,
+      "url": "https://aeinexam.ir/scrum"
+    }
+  ],
+  "total_items": 2,
+  "pages_count": 1,
+  "item_per_page": 50,
+  "page_num": 1
+}
